@@ -18,7 +18,7 @@ function preload(){
   bg = loadImage("jungleBg.jpg");
   chocImg = loadImage("chocolate.png");
   girlImg = loadAnimation("girl1.png", "girl1walk.png");
-  gorImg = loadImage("gorila(2).png");
+  gorImg = loadImage("gorila (2).png");
   lollyImg = loadImage("lollypop.png");
 }
 
